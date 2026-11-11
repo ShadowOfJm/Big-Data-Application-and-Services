@@ -1,0 +1,1 @@
+create database tourism character set utf8mb4;

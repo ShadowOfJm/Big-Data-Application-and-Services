@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v6/echarts.min.js"></script>
+
+    
+</head>
+<body >
+    <div id="e36dce6795744a0fa8f3e8797d7b3fca" class="chart-container" style="width:1000px; height:600px; "></div>
+    <script>
+        var chart_e36dce6795744a0fa8f3e8797d7b3fca = echarts.init(
+            document.getElementById('e36dce6795744a0fa8f3e8797d7b3fca'), 'light', {renderer: 'canvas', locale: 'ZH'});
+        var option_e36dce6795744a0fa8f3e8797d7b3fca = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "series": [
+        {
+            "type": "pie",
+            "name": "\u6e38\u5ba2\u91cf",
+            "colorBy": "data",
+            "legendHoverLink": true,
+            "selectedMode": false,
+            "selectedOffset": 10,
+            "clockwise": true,
+            "startAngle": 90,
+            "minAngle": 0,
+            "minShowLabelAngle": 0,
+            "avoidLabelOverlap": true,
+            "stillShowZeroSum": true,
+            "percentPrecision": 2,
+            "showEmptyCircle": true,
+            "emptyCircleStyle": {
+                "color": "lightgray",
+                "borderColor": "#000",
+                "borderWidth": 0,
+                "borderType": "solid",
+                "borderDashOffset": 0,
+                "borderCap": "butt",
+                "borderJoin": "bevel",
+                "borderMiterLimit": 10,
+                "opacity": 1
+            },
+            "data": [
+                {
+                    "name": "\u957f\u57ce",
+                    "value": 299
+                },
+                {
+                    "name": "\u4e3d\u6c5f\u53e4\u57ce",
+                    "value": 287
+                },
+                {
+                    "name": "\u9ec4\u5c71",
+                    "value": 281
+                },
+                {
+                    "name": "\u4e5d\u5be8\u6c9f",
+                    "value": 281
+                },
+                {
+                    "name": "\u5f20\u5bb6\u754c",
+                    "value": 281
+                },
+                {
+                    "name": "\u897f\u6e56",
+                    "value": 274
+                },
+                {
+                    "name": "\u9f13\u6d6a\u5c7f",
+                    "value": 274
+                },
+                {
+                    "name": "\u6545\u5bab",
+                    "value": 270
+                },
+                {
+                    "name": "\u6842\u6797\u5c71\u6c34",
+                    "value": 251
+                },
+                {
+                    "name": "\u4e09\u4e9a",
+                    "value": 248
+                }
+            ],
+            "radius": [
+                "20%",
+                "75%"
+            ],
+            "center": [
+                "50%",
+                "55%"
+            ],
+            "roseType": "radius",
+            "label": {
+                "show": true,
+                "margin": 8,
+                "formatter": "{b}\n{c}\u4eba\u6b21",
+                "richInheritPlainLabel": true,
+                "valueAnimation": false
+            },
+            "labelLine": {
+                "show": true,
+                "showAbove": false,
+                "length": 15,
+                "length2": 15,
+                "smooth": false,
+                "minTurnAngle": 90,
+                "maxSurfaceAngle": 90
+            },
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "enterable": false,
+                "confine": false,
+                "appendToBody": false,
+                "transitionDuration": 0.4,
+                "displayTransition": true,
+                "formatter": "{b}<br/>\u6e38\u5ba2\u91cf\uff1a{c}\u4eba\u6b21<br/>\u5360\u6bd4\uff1a{d}%",
+                "textStyle": {
+                    "fontSize": 14,
+                    "richInheritPlainLabel": true
+                },
+                "borderWidth": 0,
+                "padding": 5,
+                "order": "seriesAsc"
+            },
+            "itemStyle": {
+                "borderColor": "#fff",
+                "borderWidth": 1,
+                "borderRadius": 6
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "\u957f\u57ce",
+                "\u4e3d\u6c5f\u53e4\u57ce",
+                "\u9ec4\u5c71",
+                "\u4e5d\u5be8\u6c9f",
+                "\u5f20\u5bb6\u754c",
+                "\u897f\u6e56",
+                "\u9f13\u6d6a\u5c7f",
+                "\u6545\u5bab",
+                "\u6842\u6797\u5c71\u6c34",
+                "\u4e09\u4e9a"
+            ],
+            "selected": {},
+            "show": true,
+            "left": "2%",
+            "top": "15%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10,
+            "triggerEvent": false
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "displayTransition": true,
+        "textStyle": {
+            "fontSize": 14,
+            "richInheritPlainLabel": true
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "color": [
+        "#d48265",
+        "#c23531",
+        "#c23531",
+        "#d48265",
+        "#91c7ae",
+        "#c23531",
+        "#91c7ae",
+        "#91c7ae",
+        "#91c7ae",
+        "#d48265"
+    ],
+    "title": [
+        {
+            "show": true,
+            "text": "\u5404\u666f\u533a\u6e38\u5ba2\u91cf\u5206\u5e03\u73ab\u7470\u56fe",
+            "target": "blank",
+            "subtext": "\u6247\u5f62\u534a\u5f84=\u6e38\u5ba2\u91cf\uff0c\u989c\u8272\u6df1\u6d45=\u666f\u533a\u7b49\u7ea7\uff1a5A(\u6df1\u7ea2)/4A(\u6a59)/3A(\u7eff)",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ]
+};
+        chart_e36dce6795744a0fa8f3e8797d7b3fca.setOption(option_e36dce6795744a0fa8f3e8797d7b3fca);
+    </script>
+</body>
+</html>

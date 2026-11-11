@@ -1,0 +1,101 @@
+id,course_name,category,level,duration,price,instructor,avg_rating,enrollment_count
+1,Course 1,Programming,Beginner,63,196.91,Instructor 24,3.1,2369
+2,Course 2,Web Development,Advanced,41,160.24,Instructor 15,3.0,3371
+3,Course 3,Data Science,Intermediate,47,167.17,Instructor 45,4.1,716
+4,Course 4,Mobile Development,Beginner,32,34.6,Instructor 48,4.0,5234
+5,Course 5,Artificial Intelligence,Intermediate,85,45.61,Instructor 46,3.1,7873
+6,Course 6,Database,Advanced,164,136.07,Instructor 21,3.1,3795
+7,Course 7,Data Science,Intermediate,139,34.61,Instructor 28,4.4,4526
+8,Course 8,Cloud Computing,Intermediate,136,32.15,Instructor 1,4.4,5160
+9,Course 9,Programming,Beginner,129,183.63,Instructor 49,4.3,2637
+10,Course 10,DevOps,Intermediate,161,143.42,Instructor 45,4.6,2123
+11,Course 11,Artificial Intelligence,Advanced,13,38.63,Instructor 4,3.9,8566
+12,Course 12,Artificial Intelligence,Beginner,34,32.47,Instructor 45,3.1,2863
+13,Course 13,Cloud Computing,Advanced,115,83.26,Instructor 3,3.5,5327
+14,Course 14,Cybersecurity,Intermediate,13,179.93,Instructor 19,3.2,2056
+15,Course 15,DevOps,Advanced,14,30.77,Instructor 2,4.4,8423
+16,Course 16,Machine Learning,Beginner,192,165.03,Instructor 44,3.8,18
+17,Course 17,Machine Learning,Advanced,117,127.75,Instructor 4,3.8,6375
+18,Course 18,DevOps,Beginner,44,70.5,Instructor 27,4.4,6329
+19,Course 19,Machine Learning,Intermediate,96,156.81,Instructor 21,4.6,9035
+20,Course 20,Database,Advanced,54,24.4,Instructor 39,3.7,5977
+21,Course 21,Cybersecurity,Advanced,139,184.12,Instructor 3,4.8,1646
+22,Course 22,DevOps,Advanced,166,187.39,Instructor 12,4.7,478
+23,Course 23,Programming,Advanced,73,36.4,Instructor 36,4.7,7164
+24,Course 24,Cloud Computing,Advanced,50,64.7,Instructor 5,3.5,8961
+25,Course 25,Mobile Development,Advanced,165,195.79,Instructor 39,4.8,9834
+26,Course 26,Web Development,Intermediate,11,112.66,Instructor 23,4.7,9947
+27,Course 27,Cybersecurity,Advanced,150,48.88,Instructor 41,3.3,6572
+28,Course 28,Programming,Advanced,142,180.48,Instructor 9,4.9,3690
+29,Course 29,Machine Learning,Advanced,105,73.9,Instructor 35,4.6,5715
+30,Course 30,Cybersecurity,Beginner,116,83.93,Instructor 9,4.0,472
+31,Course 31,Web Development,Advanced,199,21.1,Instructor 19,3.9,9579
+32,Course 32,Cybersecurity,Advanced,36,171.02,Instructor 38,4.9,4696
+33,Course 33,DevOps,Beginner,49,130.39,Instructor 5,4.2,7877
+34,Course 34,Artificial Intelligence,Beginner,17,114.36,Instructor 41,4.0,3304
+35,Course 35,Web Development,Advanced,103,137.21,Instructor 45,5.0,7045
+36,Course 36,Programming,Intermediate,83,42.48,Instructor 27,4.0,632
+37,Course 37,Data Science,Intermediate,91,78.01,Instructor 21,4.9,1163
+38,Course 38,Database,Beginner,101,117.48,Instructor 44,3.1,8961
+39,Course 39,Web Development,Intermediate,190,164.31,Instructor 30,4.3,4335
+40,Course 40,Database,Beginner,12,177.16,Instructor 44,3.3,3565
+41,Course 41,Cloud Computing,Beginner,18,10.99,Instructor 46,3.8,1204
+42,Course 42,Cybersecurity,Intermediate,66,128.75,Instructor 48,5.0,4601
+43,Course 43,Artificial Intelligence,Beginner,182,167.76,Instructor 7,4.1,2924
+44,Course 44,Machine Learning,Beginner,132,131.68,Instructor 48,3.4,2190
+45,Course 45,DevOps,Beginner,79,90.62,Instructor 15,4.8,1363
+46,Course 46,Cloud Computing,Beginner,191,172.71,Instructor 40,4.4,628
+47,Course 47,DevOps,Intermediate,199,70.67,Instructor 8,3.3,9789
+48,Course 48,Web Development,Intermediate,121,68.08,Instructor 29,4.7,3789
+49,Course 49,Web Development,Advanced,73,114.56,Instructor 35,4.6,144
+50,Course 50,DevOps,Beginner,156,39.01,Instructor 30,4.2,2877
+51,Course 51,Programming,Beginner,137,138.68,Instructor 50,3.3,9374
+52,Course 52,Mobile Development,Intermediate,198,78.43,Instructor 43,4.1,2371
+53,Course 53,Artificial Intelligence,Advanced,163,127.33,Instructor 11,4.8,3055
+54,Course 54,Cybersecurity,Intermediate,45,82.03,Instructor 26,3.4,2399
+55,Course 55,Database,Advanced,99,193.79,Instructor 2,4.3,5322
+56,Course 56,DevOps,Advanced,177,188.32,Instructor 41,4.3,6546
+57,Course 57,Mobile Development,Advanced,61,161.1,Instructor 38,3.7,7220
+58,Course 58,Web Development,Advanced,149,40.58,Instructor 19,4.2,9742
+59,Course 59,Mobile Development,Beginner,50,152.64,Instructor 34,3.9,9998
+60,Course 60,Cloud Computing,Intermediate,137,67.53,Instructor 44,4.7,6865
+61,Course 61,Programming,Beginner,106,11.05,Instructor 9,4.5,9630
+62,Course 62,Artificial Intelligence,Advanced,92,98.78,Instructor 37,4.3,4106
+63,Course 63,Cloud Computing,Beginner,131,159.22,Instructor 4,4.6,8545
+64,Course 64,Artificial Intelligence,Advanced,120,14.17,Instructor 38,5.0,7106
+65,Course 65,Cybersecurity,Intermediate,74,161.55,Instructor 13,4.4,2218
+66,Course 66,Artificial Intelligence,Beginner,195,169.94,Instructor 26,3.0,393
+67,Course 67,Cloud Computing,Intermediate,138,45.39,Instructor 41,3.5,8871
+68,Course 68,Cybersecurity,Advanced,49,89.68,Instructor 39,3.8,8144
+69,Course 69,Artificial Intelligence,Advanced,140,16.44,Instructor 11,4.4,1043
+70,Course 70,DevOps,Intermediate,164,16.06,Instructor 37,3.0,6328
+71,Course 71,Cloud Computing,Advanced,97,125.92,Instructor 22,3.6,3407
+72,Course 72,Machine Learning,Beginner,11,161.53,Instructor 11,3.8,5377
+73,Course 73,Programming,Advanced,40,177.58,Instructor 40,3.4,6533
+74,Course 74,Mobile Development,Intermediate,26,170.61,Instructor 40,3.1,8014
+75,Course 75,Machine Learning,Intermediate,37,158.98,Instructor 31,4.3,9531
+76,Course 76,Database,Intermediate,174,168.49,Instructor 25,3.7,9592
+77,Course 77,Programming,Intermediate,71,163.31,Instructor 39,4.7,7922
+78,Course 78,Database,Advanced,63,36.55,Instructor 39,4.4,3723
+79,Course 79,Web Development,Intermediate,173,24.68,Instructor 2,4.6,6007
+80,Course 80,Machine Learning,Advanced,27,99.75,Instructor 26,3.5,4219
+81,Course 81,Web Development,Beginner,195,85.24,Instructor 32,4.5,1731
+82,Course 82,Mobile Development,Advanced,191,160.91,Instructor 19,4.6,1845
+83,Course 83,Web Development,Intermediate,83,136.57,Instructor 37,3.2,3134
+84,Course 84,Mobile Development,Advanced,194,121.39,Instructor 13,3.4,7653
+85,Course 85,DevOps,Intermediate,131,176.96,Instructor 19,3.4,3623
+86,Course 86,Cloud Computing,Intermediate,107,77.12,Instructor 5,4.2,8124
+87,Course 87,Web Development,Intermediate,79,22.28,Instructor 31,3.7,1522
+88,Course 88,Programming,Beginner,142,156.99,Instructor 31,3.4,2887
+89,Course 89,DevOps,Intermediate,18,53.2,Instructor 14,3.2,609
+90,Course 90,Web Development,Advanced,100,192.34,Instructor 49,3.2,1983
+91,Course 91,Mobile Development,Beginner,111,154.6,Instructor 23,4.7,1968
+92,Course 92,Cybersecurity,Advanced,129,79.5,Instructor 11,4.2,519
+93,Course 93,Database,Beginner,40,56.26,Instructor 42,3.7,5471
+94,Course 94,Machine Learning,Advanced,12,116.77,Instructor 7,4.1,4528
+95,Course 95,Cloud Computing,Intermediate,122,181.02,Instructor 46,3.6,3036
+96,Course 96,DevOps,Intermediate,41,115.52,Instructor 49,4.1,763
+97,Course 97,DevOps,Beginner,27,41.4,Instructor 44,4.2,5141
+98,Course 98,Cloud Computing,Intermediate,34,150.67,Instructor 14,3.1,5776
+99,Course 99,Web Development,Intermediate,47,150.64,Instructor 8,4.6,475
+100,Course 100,Artificial Intelligence,Intermediate,137,23.26,Instructor 13,3.7,1699

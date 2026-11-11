@@ -1,0 +1,1 @@
+create database bike_data character set utf8mb4;

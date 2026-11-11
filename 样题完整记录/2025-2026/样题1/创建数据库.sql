@@ -1,0 +1,1 @@
+create database tree_statistics default character set utf8mb4;

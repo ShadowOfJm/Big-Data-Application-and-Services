@@ -1,0 +1,1 @@
+create database education character set utf8mb4;

@@ -1,2 +1,2 @@
-use tree_statistics
+use tree_statistics;
 show engines;

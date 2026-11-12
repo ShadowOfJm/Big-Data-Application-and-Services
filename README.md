@@ -37,7 +37,7 @@
 │   ├── code/                 MySQL 脚本（按赛季与样题分目录）
 │   └── 数据/                 LOAD DATA 用的建表数据 CSV
 ├── 数据生成/                 造题脚本（原始数据 + SQL 建表语句）
-├── MapReduce/                MapReduce 工程（预留）
+├── MapReduce/                MapReduce 工程（待完善）
 └── ZZ052 大数据应用与服务赛项规程_20250211161921A009.pdf
 ```
 

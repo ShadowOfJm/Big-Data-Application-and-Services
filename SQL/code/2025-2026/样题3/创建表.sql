@@ -8,3 +8,14 @@ create table new_weather(
     levels int comment '城市等级',
     climate varchar(255) comment '气候条件'
 );
+
+create table weather(
+    id int primary key,
+    city_id int,
+    city_name varchar(255),
+    climate varchar(255),
+    weather_condition varchar(50),
+    max_temp double,
+    wind_level int,
+    weather_date date
+);
